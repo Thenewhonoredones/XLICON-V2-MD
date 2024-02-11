@@ -7,15 +7,15 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2349035269262', '🅰🆂🆃🅰', true], 
-  ['2349044156415', 'Choso SenSei', true],
-  ['2349035391852', 'TIMOFC', true],
+  ['2349035269262', '♛彡 Äñgêl 彡♛', true], 
+  ['2349044156415', 'x____тιм ѕєηραι____x', true],
+  ['2349035391852', '★彡[ тιмσтну ]彡★', true],
   ['2348123035565', '🆃🅸🅼 🆂🅴🅽🆂🅴🅸', true],
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233208179431'] 
+global.mods = ['2349035391852', '2349044156415', '2349035269262','2348123035565'] 
 global.prems = ['2349035269262','2349044156415','2349035391852']
 global.allowed = ['2349035269262','2349044156415', '2349035391852']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -52,13 +52,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '🅰🆂🆃🅰'
+global.botname = '♛彡 Äñgêl 彡♛'
 global.premium = 'true'
-global.packname = '🅰🆂🆃🅰' 
-global.author = '🆃🅸🅼 🆂🅴🅽🆂🅴🅸' 
-global.menuvid = 'https://telegra.ph/file/55a138fd5920d2fa52b9b.jpg'
-global.igfg = '▢✓ Follow My Support Gc\nhttps://chat.whatsapp.com/BlrHZHX0G1F3vTyOOtMZQZ\n' 
-global.dygp = 'https://chat.whatsapp.com/BlrHZHX0G1F3vTyOOtMZQZ'
+global.packname = ' Äñgêl ' 
+global.author = '♛ Äñgêl ♛'
+global.menuvid = 'https://telegra.ph/file/cd726c84dd8517de26ab5.jpg'
+global.igfg = '▢✓ Follow My Support Gc\nhttps://chat.whatsapp.com/KbDoZ8oZEhzC2yejWgZ67m\n' 
+global.dygp = 'https://chat.whatsapp.com/KbDoZ8oZEhzC2yejWgZ67m'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
@@ -66,7 +66,7 @@ global.fglog = 'XLICON.jpg'
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LODIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _♛彡 Äñgêl 彡♛ IS LODIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
